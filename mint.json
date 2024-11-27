@@ -24,7 +24,7 @@
   "tabs": [
     {
       "name": "Updates",
-      "url": "updates"
+      "url": "pages/updates"
     }
   ],
   "navigation": [
@@ -38,15 +38,21 @@
     {
       "group": "Essentials",
       "pages": [
-        "essentials/producers",
-        "essentials/licenses",
-        "essentials/applications"
+        "pages/essentials/producers",
+        "pages/essentials/licenses",
+        "pages/essentials/applications"
       ]
     },
     {
       "group": "For FMOs",
       "pages": [
-        "fmo/introduction"
+        "pages/fmo/introduction"
+      ]
+    },
+    {
+      "group": "Updates",
+      "pages": [
+        "pages/updates"
       ]
     }
   ],
