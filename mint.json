@@ -24,7 +24,7 @@
   "tabs": [
     {
       "name": "Updates",
-      "url": "pages/updates"
+      "url": "updates"
     }
   ],
   "navigation": [
@@ -52,7 +52,7 @@
     {
       "group": "Updates",
       "pages": [
-        "pages/updates"
+        "updates"
       ]
     }
   ],
