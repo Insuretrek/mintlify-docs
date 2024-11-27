@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "InsureTrek",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/sources/logo/dark.svg",
+    "light": "/sources/logo/light.svg"
   },
-  "favicon": "/logo/favicon.svg",
+  "favicon": "/sources/logo/favicon.svg",
   "colors": {
     "primary": "#00A6FB",
     "dark": "#001E43",
@@ -24,7 +24,7 @@
   "tabs": [
     {
       "name": "Updates",
-      "url": "updates"
+      "url": "changelog"
     }
   ],
   "navigation": [
@@ -52,7 +52,7 @@
     {
       "group": "Changelog",
       "pages": [
-        "updates/updates"
+        "changelog/updates"
       ]
     }
   ],
