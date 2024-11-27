@@ -48,12 +48,6 @@
       "pages": [
         "pages/fmo/introduction"
       ]
-    },
-    {
-      "group": "Updates",
-      "pages": [
-        "updates/updates"
-      ]
     }
   ],
   "footerSocials": {
